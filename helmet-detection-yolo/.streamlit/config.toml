@@ -1,0 +1,9 @@
+# Dark theme so the app matches the background image (Streamlit reads this when
+# you run `streamlit run app/streamlit_app.py` from the repository root).
+[theme]
+base = "dark"
+primaryColor = "#F59E0B"
+backgroundColor = "#0B0F19"
+secondaryBackgroundColor = "#111827"
+textColor = "#F3F4F6"
+font = "sans serif"

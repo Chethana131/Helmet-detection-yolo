@@ -1,0 +1,26 @@
+# Datasets, weights and generated outputs (never commit these)
+data/raw/
+data/yolo/
+models/*.pt
+models/*.onnx
+runs/
+results/predictions/
+results/test_eval/
+*.pt
+*.pth
+*.onnx
+*.mp4
+*.avi
+*.zip
+kaggle.json
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
